@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there.  I'm in my mid-30's, pursuing an IT degree, and interested in modding Minecraft.  I've been playing it since the beta days, so I remember Risugami's ModLoader and the old dream world plugin for Bukkit, among other things.  I've thrown together a bevvy of mod setups, and written some basic tweaks in KubeJS and CraftTweaker, but never a properly wrapped "modpack", though I'd like to at some point.
 
 <!--
 **Durpady/Durpady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
